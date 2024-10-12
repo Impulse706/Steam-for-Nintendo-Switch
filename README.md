@@ -12,3 +12,5 @@ GUIDE
 5. Open a new terminal window (Any terminal works fine) Paste the code, hit enter, then when prompted, enter sudo password.
 6. Wait for the script to run and finish, then Steam will launch with Box and Wine.
 7. Play some games! Congrats it's done!!
+
+   Want to commit, help or discuss? Mention me in the discussions and we'll work something out.
