@@ -3,6 +3,8 @@ FINALLY!!! I was able to use OpenAI's GPT 4o to code an entire script, which can
 
 GUIDE
 
+ (Head to the Releases page and downloadn the latest version).
+ 
 1. Once you have downloaded the .DOCX file, copy and paste the entire script to a new notepad.
 2. Drag and drop the saved notepad file onto a USB drive.
 3. Plug in the USB into your Switch.
