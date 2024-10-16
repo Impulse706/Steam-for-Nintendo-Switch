@@ -1,4 +1,4 @@
-#  (Steam-for-Nintendo-Switch)
+# Vulpix (Steam-for-Nintendo-Switch)
 FINALLY!!! I was able to use OpenAI's GPT 4o to code an entire script, which can be used on a Jailbroken Nintendo Switch Running Ubuntu 24.04+ (Noble) to play steam games (Locally!) . The goal was to make a simple copy/paste command that installed Wine, Box64, Box86, DXVK and Steam on Linux to run games without streaming!!! This project is still under development, so please take everything seriously. What you do is what you're responsible for, by downloading anything, you claim responsibility for whatever happens.
 
 GUIDE
@@ -14,6 +14,3 @@ GUIDE
 7. Play some games! Congrats it's done!!
 
    Want to commit, help or discuss? Mention me in the discussions and we'll work something out.
-
-
-   Kindness is only accpeted here. Any threats, bullying, terrorism, or verbal abuse will not be tolerated; as it will result in a ban.
