@@ -14,3 +14,13 @@ GUIDE
 7. Play some games! Congrats it's done!!
 
    Want to commit, help or discuss? Mention me in the discussions and we'll work something out.
+
+All future relases will be titled:
+
+Vulpix (Current)
+Coraline
+Empress
+Calamity
+Nero
+LazerArc
+Bamboo
