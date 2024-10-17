@@ -17,10 +17,10 @@ GUIDE
 
 All future relases will be titled:
 
-Vulpix (Current)
-Coraline
-Empress
-Calamity
-Nero
-LazerArc
-Bamboo
+Vulpix (Current),
+Coraline, 
+Empress, 
+Calamity, 
+Nero, 
+LazerArc, 
+Bamboo.
